@@ -17,7 +17,7 @@ To estimate potential portfolio losses under different confidence intervals that
 Python · NumPy · pandas · SciPy · Matplotlib · Plotly
 
 # Output
-Interactive HTML Report: [View full simulation]([./Xhuti%27s%20Defense%20VaR.html](https://github.com/arbixhuti333-hub/xhuti-defense-var/blob/main/Xhuti's%20Defense%20VaR%20(3).ipynb))
+Interactive HTML Report: [View full simulation](https://github.com/arbixhuti333-hub/xhuti-defense-var/blob/df0919d730f9242bd9f575f63c5561f5b5e8fcd0/Xhuti's%20Defense%20VaR%20(3).ipynb)
 
 # Author
 Arbi Xhuti  
